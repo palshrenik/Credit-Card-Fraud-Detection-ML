@@ -51,7 +51,7 @@ This project uses the **Credit Card Fraud Detection** dataset, which contains an
 
 The dataset is too large to be included in this repository. You can download it from Kaggle:
 
-**🔗 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud** :contentReference[oaicite:0]{index=0}
+**🔗 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud**
 
 After downloading:
 1. Extract the dataset (if compressed).
